@@ -1,1 +1,11 @@
-CLAUDE.md
+# Personal notes
+notes.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
